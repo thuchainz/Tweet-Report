@@ -19,4 +19,4 @@ Live Server
 `live-server`
 
 # Preview
-![](https://github.com/thuchainz/Tweet-Report/blob/main/preview.gif)
+<img src="/preview.gif">
